@@ -5,7 +5,7 @@ I converted videos into frames and took only 16 frames from every video for the 
 
 
 # Model used
-This task is of action recognition and I tried one of the best model for action recognition and [Slow Fast Networks for Video Recognition](https://arxiv.org/pdf/1812.03982.pdf) worked best. The implementation of this network in pytorch can be found [here](https://github.com/Guocode/SlowFast-Networks). 
+This task is of action recognition and I tried one of the best model for action recognition [Slow Fast Networks for Video Recognition](https://arxiv.org/pdf/1812.03982.pdf) worked best. The implementation of this network in pytorch can be found [here](https://github.com/Guocode/SlowFast-Networks). 
 
 # Training
 The model trained fast and reached a training accuracy of 99% within 20 epochs.
