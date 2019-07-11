@@ -1,1 +1,1 @@
-
+I have implemented crime recognitions from cctv footages using UCF-crime dataset which can be obtained from [here](https://webpages.uncc.edu/cchen62/dataset.html). The dataset being too big I downloaded shorter version of it available on [kaggle](https://www.kaggle.com/mission-ai/crimeucfdataset).
